@@ -1,5 +1,5 @@
 # Python-program-to-print-all-Prime-numbers-in-an-Interval.py
-s = int(input())
+s = int(input()) 
 e = int(input())
 # this loop is for the numbers in the interval
 for i in range(s,e): 
